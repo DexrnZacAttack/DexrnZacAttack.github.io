@@ -10,7 +10,7 @@
   "dependencies": {
     "jszip": "^3.10.1",
     "liblce": "^1.2.7",
-    "marked": "^12.0.2",
+    "marked": "^14.1.2",
     "nbtify": "1.90.1",
     "uuid": "^10.0.0",
     "validator": "^13.12.0",
