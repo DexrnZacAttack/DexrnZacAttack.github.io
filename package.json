@@ -17,7 +17,7 @@
     "vite-plugin-pages": "^0.32.1"
   },
   "devDependencies": {
-    "@types/node": "^20.12.7",
+    "@types/node": "^22.7.4",
     "@types/pako": "^2.0.3",
     "@types/uuid": "^10.0.0",
     "@types/validator": "^13.11.9",
